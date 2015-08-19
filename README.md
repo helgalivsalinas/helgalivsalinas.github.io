@@ -1,1 +1,0 @@
-# helgalivsalinas.github.io
