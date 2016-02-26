@@ -6,6 +6,7 @@
 
 @import url(http://fonts.googleapis.com/css?family=Playfair+Display:900);
 
+
 /*!
  *  Simple - Minimal, responsive resume
  *  Copyright 2013 prettyspoon.com
@@ -94,7 +95,13 @@ p {
   font-size: 20px;
   text-decoration: none;
   margin: 5px 2px;
+  color: gray;
 }
+
+.social a:hover {
+  color:black;
+}
+
 .social {
   padding: 4em 0em;
   font-size: 14px;
