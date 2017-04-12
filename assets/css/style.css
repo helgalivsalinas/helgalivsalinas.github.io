@@ -110,6 +110,11 @@ p {
 .socual li {
   list-style: none;
 }
+
+.duties {
+  list-style: disc;
+  font-size: 16px;
+}
 /* Images */
 img {
   border: 1px solid #dddddd;
